@@ -1,0 +1,4 @@
+C:\Users\Серёга\Desktop\прог\С, С++, С#\bank app(vs 2010)\add lib\bin\Debug\add lib.dll
+C:\Users\Серёга\Desktop\прог\С, С++, С#\bank app(vs 2010)\add lib\bin\Debug\add lib.pdb
+C:\Users\Серёга\Desktop\прог\С, С++, С#\bank app(vs 2010)\add lib\obj\Debug\add lib.dll
+C:\Users\Серёга\Desktop\прог\С, С++, С#\bank app(vs 2010)\add lib\obj\Debug\add lib.pdb

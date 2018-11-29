@@ -1,0 +1,14 @@
+C:\Users\Серёга\Desktop\прог\С, С++, С#\bank app(vs 2010)\bank app(vs 2010)\obj\x86\Debug\MainWindow.baml
+C:\Users\Серёга\Desktop\прог\С, С++, С#\bank app(vs 2010)\bank app(vs 2010)\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Серёга\Desktop\прог\С, С++, С#\bank app(vs 2010)\bank app(vs 2010)\obj\x86\Debug\App.g.cs
+C:\Users\Серёга\Desktop\прог\С, С++, С#\bank app(vs 2010)\bank app(vs 2010)\obj\x86\Debug\bank app(vs 2010)_MarkupCompile.cache
+C:\Users\Серёга\Desktop\прог\С, С++, С#\bank app(vs 2010)\bank app(vs 2010)\obj\x86\Debug\bank app(vs 2010).g.resources
+C:\Users\Серёга\Desktop\прог\С, С++, С#\bank app(vs 2010)\bank app(vs 2010)\obj\x86\Debug\bank_app_vs_2010_.Properties.Resources.resources
+C:\Users\Серёга\Desktop\прог\С, С++, С#\bank app(vs 2010)\bank app(vs 2010)\obj\x86\Debug\bank app(vs 2010).csproj.GenerateResource.Cache
+C:\Users\Серёга\Desktop\прог\С, С++, С#\bank app(vs 2010)\bank app(vs 2010)\obj\x86\Debug\bank app(vs 2010).csprojResolveAssemblyReference.cache
+C:\Users\Серёга\Desktop\прог\С, С++, С#\bank app(vs 2010)\bank app(vs 2010)\bin\Debug\bank app(vs 2010).exe
+C:\Users\Серёга\Desktop\прог\С, С++, С#\bank app(vs 2010)\bank app(vs 2010)\bin\Debug\bank app(vs 2010).pdb
+C:\Users\Серёга\Desktop\прог\С, С++, С#\bank app(vs 2010)\bank app(vs 2010)\bin\Debug\add lib.dll
+C:\Users\Серёга\Desktop\прог\С, С++, С#\bank app(vs 2010)\bank app(vs 2010)\bin\Debug\add lib.pdb
+C:\Users\Серёга\Desktop\прог\С, С++, С#\bank app(vs 2010)\bank app(vs 2010)\obj\x86\Debug\bank app(vs 2010).exe
+C:\Users\Серёга\Desktop\прог\С, С++, С#\bank app(vs 2010)\bank app(vs 2010)\obj\x86\Debug\bank app(vs 2010).pdb

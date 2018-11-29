@@ -1,0 +1,27 @@
+﻿<Window x:Class="bank_app_vs_2010_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="509" Width="382">
+    <Grid>
+        <Label Content="Ваше имя:" Height="28" HorizontalAlignment="Left" Margin="12,93,0,0" Name="label1" VerticalAlignment="Top" />
+        <Label Height="75" HorizontalAlignment="Left" Margin="12,26,0,0" Name="helloText" VerticalAlignment="Top" Content="Пожалуйста, введите имя" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="12,127,0,0" VerticalAlignment="Top" Width="120" Name="nameOfCustomer" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="228,127,0,0" VerticalAlignment="Top" Width="120" IsEnabled="False" Name="newCustomer" />
+        <Button Content="Загрузить" Height="23" HorizontalAlignment="Left" Margin="12,156,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" />
+        <Button Content="Принять" Height="23" HorizontalAlignment="Right" Margin="0,156,12,0" Name="newCustomerApply" VerticalAlignment="Top" Width="75" Click="newCustomerApply_Click" IsEnabled="False" />
+        <Label Content="Ваш текущий счёт:" Height="28" HorizontalAlignment="Left" Margin="12,185,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="12,219,0,0" Name="currentBalance" VerticalAlignment="Top" />
+        <Label Content="Хотите изменить баланс?" Height="28" HorizontalAlignment="Left" Margin="12,253,0,0" Name="changeBalance" VerticalAlignment="Top" IsEnabled="False" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="12,287,0,0" VerticalAlignment="Top" Width="132" IsEnabled="False" Name="changingBalance" />
+        <Button Content="Положить" Height="23" HorizontalAlignment="Left" Margin="12,316,0,0" Name="Puting" VerticalAlignment="Top" Width="66" IsEnabled="False" Click="Puting_Click" />
+        <Button Content="Снять" Height="23" HorizontalAlignment="Left" Margin="84,316,0,0" Name="Withdrawing" VerticalAlignment="Top" Width="60" IsEnabled="False" Click="Withdrawing_Click" />
+        <Label Content="Хотите узнать баланс в другой валюте?" Height="28" HorizontalAlignment="Left" Margin="12,345,0,0" Name="anotherCurrency" VerticalAlignment="Top" IsEnabled="False" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="12,397,0,0" VerticalAlignment="Top" Name="inUSD" />
+        <Button Content="Да" Height="23" HorizontalAlignment="Left" Margin="12,368,0,0" Name="yesButton" VerticalAlignment="Top" Width="66" IsEnabled="False" Click="yesButton_Click" />
+        <Button Content="Нет" Height="23" HorizontalAlignment="Left" Margin="88,368,0,0" Name="noButton" VerticalAlignment="Top" Width="56" IsEnabled="False" Click="noButton_Click" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="12,431,0,0" Name="inEUR" VerticalAlignment="Top" IsEnabled="True" />
+        <Label Content="в долларах" Height="28" HorizontalAlignment="Left" Margin="200,397,0,0" Name="USD" VerticalAlignment="Top" IsEnabled="False" />
+        <Label Content="в евро" Height="28" HorizontalAlignment="Left" Margin="200,431,0,0" Name="EUR" VerticalAlignment="Top" IsEnabled="False" />
+        <Button Content="история баланса" Height="23" HorizontalAlignment="Left" Margin="242,287,0,0" Name="history" VerticalAlignment="Top" Width="106" IsEnabled="False" Click="history_Click" />
+    </Grid>
+</Window>
