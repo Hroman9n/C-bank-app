@@ -1,0 +1,37 @@
+﻿<Window x:Class="зачётная_работа.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:зачётная_работа"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="523.192" Width="408.255">
+    <Grid Margin="0,0,2,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Ваш текущий счёт :" HorizontalAlignment="Left" Margin="9,138,0,0" VerticalAlignment="Top" Height="26" Width="115"/>
+        <Label x:Name="currentBalance" Content="" HorizontalAlignment="Left" Margin="9,169,0,0" VerticalAlignment="Top" Height="26" Width="185"/>
+        <Label Content="Ваше имя :" HorizontalAlignment="Left" Margin="0,38,0,0" VerticalAlignment="Top" Height="23" Width="69"/>
+        <TextBox x:Name="nameOfCustomer" HorizontalAlignment="Left" Height="23" Margin="74,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="helloText" Content="Пожалуйста, введите имя" HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="375" Margin="0,10,0,0"/>
+        <Button Content="Загрузить" HorizontalAlignment="Left" Margin="9,66,0,0" VerticalAlignment="Top" Width="84" Height="41" Click="Button_Click"/>
+        <Label x:Name="anotherCurrency" Content="Хотите узнать свой баланс в другой валюте?" HorizontalAlignment="Left" Margin="9,329,0,0" VerticalAlignment="Top" IsEnabled="False" Height="26" Width="255"/>
+        <Button x:Name="yesButton" Content="Да" HorizontalAlignment="Left" Margin="9,360,0,0" VerticalAlignment="Top" Width="44" Height="48" Click="Button_Click_1" IsEnabled="False"/>
+        <Button x:Name="noButton" Content="Нет" HorizontalAlignment="Left" Margin="58,360,0,0" VerticalAlignment="Top" Width="44" Height="48" Click="Button_Click_2" IsEnabled="False"/>
+        <Label x:Name="USD" Content="В долларах" HorizontalAlignment="Left" Margin="190,418,0,0" VerticalAlignment="Top" IsEnabled="False" Height="26" Width="71"/>
+        <Label x:Name="EUR" Content="В евро" HorizontalAlignment="Left" Margin="190,449,0,0" VerticalAlignment="Top" IsEnabled="False" Height="26" Width="47"/>
+        <Label x:Name="changeBalance" Content="Хотите изменить баланс?" HorizontalAlignment="Left" Margin="9,218,0,0" VerticalAlignment="Top" IsEnabled="False" Height="26" Width="185"/>
+        <TextBox x:Name="changingBalance" HorizontalAlignment="Left" Height="23" Margin="9,249,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+        <Button x:Name="Puting" Content="Положить" HorizontalAlignment="Left" Margin="9,277,0,0" VerticalAlignment="Top" Width="69" Height="47" IsEnabled="False" Click="Puting_Click"/>
+        <Button x:Name="Withdrawing" Content="Снять" HorizontalAlignment="Left" Margin="83,277,0,0" VerticalAlignment="Top" Width="69" Height="47" IsEnabled="False" Click="Withdrawing_Click"/>
+        <TextBox x:Name="newCustomer" HorizontalAlignment="Right" Height="23" Margin="0,33,15,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+        <Button x:Name="newCustomerApply" Content="Принять" HorizontalAlignment="Right" Margin="0,66,15,0" VerticalAlignment="Top" Width="81" IsEnabled="False" Click="newCustomerApply_Click" Height="41" RenderTransformOrigin="1.204,0.421"/>
+        <Label x:Name="inUSD" Content="" HorizontalAlignment="Left" Margin="15,418,0,0" VerticalAlignment="Top" Height="26" Width="10"/>
+        <Label x:Name="inEUR" Content="" HorizontalAlignment="Left" Margin="15,449,0,0" VerticalAlignment="Top" Height="26" Width="10"/>
+        <Button x:Name="history" Content="История баланса" HorizontalAlignment="Right" Margin="0,249,1,0" VerticalAlignment="Top" Width="134" Height="23" IsEnabled="False" Click="history_Click"/>
+
+    </Grid>
+</Window>

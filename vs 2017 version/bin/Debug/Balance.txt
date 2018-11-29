@@ -1,0 +1,4 @@
+Sergei|10000
+Vladimir|5000
+Artyom|15000
+Slava|1000

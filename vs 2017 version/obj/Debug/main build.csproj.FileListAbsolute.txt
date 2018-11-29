@@ -1,0 +1,18 @@
+C:\Users\Серёга\Desktop\прог\С, С++, С#\my app\bin\Debug\зачётная работа.exe.config
+C:\Users\Серёга\Desktop\прог\С, С++, С#\my app\bin\Debug\зачётная работа.exe
+C:\Users\Серёга\Desktop\прог\С, С++, С#\my app\bin\Debug\зачётная работа.pdb
+C:\Users\Серёга\Desktop\прог\С, С++, С#\my app\bin\Debug\add.dll
+C:\Users\Серёга\Desktop\прог\С, С++, С#\my app\bin\Debug\add.pdb
+C:\Users\Серёга\Desktop\прог\С, С++, С#\my app\obj\Debug\main build.csprojAssemblyReference.cache
+C:\Users\Серёга\Desktop\прог\С, С++, С#\my app\obj\Debug\MainWindow.g.cs
+C:\Users\Серёга\Desktop\прог\С, С++, С#\my app\obj\Debug\App.g.cs
+C:\Users\Серёга\Desktop\прог\С, С++, С#\my app\obj\Debug\зачётная работа_MarkupCompile.cache
+C:\Users\Серёга\Desktop\прог\С, С++, С#\my app\obj\Debug\зачётная работа_MarkupCompile.lref
+C:\Users\Серёга\Desktop\прог\С, С++, С#\my app\obj\Debug\MainWindow.baml
+C:\Users\Серёга\Desktop\прог\С, С++, С#\my app\obj\Debug\зачётная работа.g.resources
+C:\Users\Серёга\Desktop\прог\С, С++, С#\my app\obj\Debug\зачётная_работа.Properties.Resources.resources
+C:\Users\Серёга\Desktop\прог\С, С++, С#\my app\obj\Debug\main build.csproj.GenerateResource.cache
+C:\Users\Серёга\Desktop\прог\С, С++, С#\my app\obj\Debug\main build.csproj.CoreCompileInputs.cache
+C:\Users\Серёга\Desktop\прог\С, С++, С#\my app\obj\Debug\main build.csproj.CopyComplete
+C:\Users\Серёга\Desktop\прог\С, С++, С#\my app\obj\Debug\зачётная работа.exe
+C:\Users\Серёга\Desktop\прог\С, С++, С#\my app\obj\Debug\зачётная работа.pdb
